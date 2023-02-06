@@ -30,6 +30,7 @@ add_student('Dulat', 1)
 print('До сортировки:')
 show_student(list_of_names, list_of_class)
 print()
+
 print('После сортировки:')
 bubble_sort(list_of_class, list_of_names)
 show_student(list_of_names, list_of_class)
