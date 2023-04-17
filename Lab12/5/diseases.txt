@@ -1,0 +1,6 @@
+Almaty 100
+Astana 90
+Shymkent 110
+Taraz 120
+Aktobe 95
+Taldykorgan 90
